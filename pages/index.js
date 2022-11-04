@@ -234,6 +234,7 @@ export const Category = styled.div`
 //     transition: transform 0.5s;
 //   }
 
+
 //   &:not(:hover) {
 //     transition: transform 0.5s;
 //   }
